@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">multiScreen</string>
+    <string name="screen_1">SCREEN-1</string>
+    <string name="result">Your Name will Shown bellow..</string>
+</resources>
